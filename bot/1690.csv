@@ -1,0 +1,27 @@
+Key,"Total Points","Quals Score","Teleop Defenses Breached","Teleop Tower Captured","Auto Points","Auto Crossing Points","Auto Reach Points","Auto Boulder Points","Auto Boulders High","Auto Low Boulders","1690 Auto","Robot 1 Auto","Robot 2 Auto","Robot 3 Auto","Teleop Score","Teleop Crossing Points","Teleop Boulder Points","Teleop Challenge Points","Teleop Scale Points","Teleop Boulders Low","Teleop Boulders High","Tower End Strength","Category A","Category A Crossings","Category B","Category B Crossings","Category C","Category C Crossings","Category D","Category D Crossings","Category E","Category E Crossings","Foul Points","Foul Count","Tech Foul Count","Tower Face A","Tower Face B","Tower Face C","Breach Points","Capture Points","Adjust Points",Color
+red,0,,E_LowBar,0
+blue,0,,E_LowBar,0
+2016tes_qm13,177,177,1,1,32,20,2,10,1,0,Crossed,Reached,Crossed,Crossed,135,30,80,10,15,0,16,2,A_ChevalDeFrise,2,B_Ramparts,2,C_SallyPort,0,D_RockWall,2,E_LowBar,2,10,0,0,Challenged,Scaled,Challenged,0,0,0,red
+blue,0,,E_LowBar,0
+2016tes_qm3,117,117,1,,22,10,2,10,1,0,Reached,Reached,None,Crossed,95,35,45,15,0,0,9,2,A_ChevalDeFrise,2,B_Moat,2,C_SallyPort,0,D_RockWall,2,E_LowBar,2,0,1,2,Challenged,Challenged,Challenged,0,0,0,red
+red,0,,E_LowBar,0
+red,0,,E_LowBar,0
+red,0,,E_LowBar,0
+blue,0,,E_LowBar,0
+blue,0,,E_LowBar,0
+2016ista_f1m1,175,130,1,1,40,30,0,10,1,0,Crossed,Crossed,Crossed,Crossed,85,25,35,10,15,0,7,1,A_ChevalDeFrise,2,B_Ramparts,2,C_Drawbridge,0,D_RoughTerrain,2,E_LowBar,2,5,5,0,Challenged,Scaled,Challenged,20,25,0,red
+2016ista_f1m2,132,112,1,,40,30,0,10,1,0,Crossed,Crossed,Crossed,Crossed,67,25,27,15,0,1,5,3,A_ChevalDeFrise,2,B_Ramparts,2,C_Drawbridge,0,D_RoughTerrain,2,E_LowBar,2,5,2,0,Challenged,Challenged,Challenged,20,0,0,red
+2016ista_qf1m1,145,125,1,,40,30,0,10,1,0,Crossed,Crossed,Crossed,Crossed,70,25,10,5,30,0,2,4,A_ChevalDeFrise,2,B_Ramparts,2,C_Drawbridge,0,D_RockWall,2,E_LowBar,2,15,1,0,Challenged,Scaled,Scaled,20,0,0,red
+2016ista_qf1m2,105,85,1,,30,30,0,0,0,0,Crossed,Crossed,Crossed,Crossed,55,25,15,15,0,0,3,3,A_ChevalDeFrise,2,20,C_Drawbridge,D_RockWall,0,E_LowBar,2,1,2,Challenged,Challenged,NotSpecified,0,Challenged,0,0,0,2,red
+2016ista_qf1m3,151,106,1,1,30,30,0,0,0,0,Crossed,Crossed,Crossed,Crossed,76,25,36,15,0,3,6,3,A_ChevalDeFrise,2,B_Moat,2,C_Drawbridge,0,D_RockWall,2,E_LowBar,2,0,0,0,Challenged,Challenged,Challenged,20,25,0,red
+2016ista_qm13,83,83,1,,32,20,2,10,1,0,Crossed,Crossed,Reached,Crossed,46,30,6,10,0,3,0,8,A_ChevalDeFrise,2,B_Ramparts,2,C_Drawbridge,0,D_RoughTerrain,2,E_LowBar,2,5,0,0,Unknown,Challenged,Challenged,0,0,0,blue
+2016ista_qm31,100,100,1,,20,20,0,0,0,0,Crossed,Crossed,None,Crossed,80,30,30,5,15,0,6,6,A_ChevalDeFrise,2,B_Moat,2,C_Drawbridge,0,D_RockWall,2,E_LowBar,2,0,0,0,Scaled,Challenged,None,0,0,0,red
+2016ista_qm36,142,142,1,1,32,20,2,10,1,0,Crossed,Reached,Crossed,Crossed,85,30,40,15,0,0,8,2,A_ChevalDeFrise,2,B_Moat,2,C_Drawbridge,0,D_RockWall,2,E_LowBar,2,25,0,0,Challenged,Challenged,Challenged,0,0,0,blue
+2016ista_qm43,107,107,1,,20,10,0,10,1,0,Crossed,Crossed,None,None,77,35,22,5,15,1,4,8,A_ChevalDeFrise,2,B_Ramparts,2,C_SallyPort,0,D_RockWall,2,E_LowBar,2,10,0,0,Unknown,Challenged,Scaled,0,0,0,red
+2016ista_qm5,122,122,1,1,14,10,4,0,0,0,Reached,Crossed,Reached,Reached,103,45,43,15,0,4,7,5,A_ChevalDeFrise,2,B_Moat,2,C_SallyPort,2,D_RockWall,2,E_LowBar,2,5,0,0,Challenged,Challenged,Challenged,0,0,0,red
+2016ista_qm54,56,56,,,6,0,6,0,0,0,Reached,Reached,Reached,Reached,40,35,0,5,0,0,0,4,A_Portcullis,2,B_Ramparts,1,C_Drawbridge,0,D_RockWall,2,E_LowBar,2,10,0,0,Unknown,Unknown,Challenged,0,0,0,red
+2016ista_qm65,94,94,1,,40,30,0,10,1,0,Crossed,Crossed,Crossed,Crossed,49,25,14,10,0,2,2,8,A_ChevalDeFrise,2,B_Ramparts,2,C_Drawbridge,0,D_RockWall,2,E_LowBar,2,5,0,0,Challenged,None,Challenged,0,0,0,blue
+2016ista_qm79,74,74,1,,24,10,4,10,1,0,Crossed,Crossed,Reached,Reached,45,35,10,0,0,0,2,4,A_ChevalDeFrise,2,B_Moat,2,C_Drawbridge,0,D_RockWall,2,E_LowBar,2,5,1,0,Unknown,Unknown,Unknown,0,0,0,red
+2016ista_qm91,67,67,1,,12,10,2,0,0,0,None,None,Reached,Crossed,55,40,5,10,0,0,1,5,A_ChevalDeFrise,2,B_Moat,2,C_Drawbridge,1,D_RoughTerrain,2,E_LowBar,2,0,0,0,Challenged,None,Challenged,0,0,0,blue
+2016ista_sf1m1,180,135,1,1,40,30,0,10,1,0,Crossed,Crossed,Crossed,Crossed,75,25,35,15,0,0,7,7,A_Portcullis,2,B_Moat,2,C_SallyPort,0,D_RoughTerrain,2,E_LowBar,2,20,1,0,Challenged,Challenged,Challenged,20,25,0,red
+2016ista_sf1m2,175,130,1,1,30,30,0,0,0,0,Crossed,Crossed,Crossed,Crossed,100,25,50,10,15,0,10,3,A_Portcullis,2,B_Moat,2,C_SallyPort,0,D_RoughTerrain,2,E_LowBar,2,0,0,1,Challenged,Scaled,Challenged,20,25,0,red

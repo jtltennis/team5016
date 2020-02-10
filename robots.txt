@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /bot
+Disallow: /Documents
+Disallow: /H4XX0R3D
