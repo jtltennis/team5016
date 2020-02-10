@@ -1,0 +1,23 @@
+{
+  "name": "team5016",
+  "version": "1.0.0",
+  "description": "This is a static template with no bundling",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtltennis/team5016"
+  },
+  "keywords": ["template", "codesandbox", "static"],
+  "author": "Team5016",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jtltennis/team5016/issues"
+  },
+  "homepage": "https://github.com/jtltennis/team5016/index.html",
+  "devDependencies": {
+    "serve": "^11.2.0"
+  }
+}
